@@ -20,7 +20,7 @@ const Footer = () => {
       <Box className={classes.footer}>
         {isMobile && <Social mobile />}
         <Typography variant="body2" color="initial">
-          © 2022 Qunionez Galante, Inc
+          © 2023 Mikus Grosbergs, Inc
         </Typography>
       </Box>
     </Container>

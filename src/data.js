@@ -40,7 +40,7 @@ const projectList = [
     backgroundImage:
       "https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg?size=626&ext=jpg&ga=GA1.2.2102900112.1628985600",
     frontImage: "projects/02.png",
-    ur: "https://www.lamarmotta.cloud"
+    ur: "https://www.lamarmotta.cloud/"
   },
   {
     id: 3,
