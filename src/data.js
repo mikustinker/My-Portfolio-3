@@ -96,14 +96,14 @@ const projectList = [
     frontImage: "projects/08.png",
     url: "https://www.smileydental.net/"
   },
-  // {
-  //   id: 9,
-  //   title: "EVERMORE",
-  //   technologies: ["React JS", "Redux"],
-  //   backgroundImage:
-  //     "https://media.istockphoto.com/vectors/abstract-purple-vector-background-with-stripes-vector-id972475894?k=6&m=972475894&s=612x612&w=0&h=99AirGMOb64N2-1ZSMYRjEBp2USrAdzXUGzQMh5o6Js=",
-  //   frontImage: "projects/09.png",
-  // },
+  {
+    id: 9,
+    title: "SAVUM",
+    technologies: ["WordPres", "Woocommerce", "Elementor", "SEO", "Redirect Plugin"],
+    backgroundImage:
+      "https://media.istockphoto.com/vectors/abstract-purple-vector-background-with-stripes-vector-id972475894?k=6&m=972475894&s=612x612&w=0&h=99AirGMOb64N2-1ZSMYRjEBp2USrAdzXUGzQMh5o6Js=",
+    frontImage: "projects/09.png",
+  },
   // {
   //   id: 10,
   //   title: "KUVIRA",
